@@ -2,7 +2,7 @@
 
 # Hey! I'm Aman 
 
-### Full-Stack Developer • Computer Science Student • Builder
+### Full-Stack Developer • Computer Science Student 
 
 I build practical web applications, explore AI-powered solutions,
 and turn ideas into working products.
