@@ -74,7 +74,7 @@ for faster medical history retrieval.
 
 **Built With**
 
-`React` `Node.js` `AI` `REST API` `JWT`
+`React` `Node.js`  `REST API` `JWT`
 
 </td>
 
