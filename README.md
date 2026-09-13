@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey! I'm Aman 👋
+# Hey! I'm Aman 
 
 ### Full-Stack Developer • Computer Science Student • Builder
 
