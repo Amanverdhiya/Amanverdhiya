@@ -10,7 +10,7 @@ and turn ideas into working products.
 <p>
   <a href="https://github.com/Amanverdhiya">GitHub</a> •
   <a href="https://www.linkedin.com/in/aman-verdiya-561095325/">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="amanverdhiya06@gmail.com">Gmail</a>
 </p>
 
 </div>
